@@ -4,3 +4,5 @@ Each relocation is followed by more fluctuations within the new closed volume. T
 
 
 ![alt text](https://github.com/UkrRobot/BrownianMotion/blob/master/Brownian_scrn.png)
+
+This program was developed under the guidance of Professor A. Ovrutsky.
